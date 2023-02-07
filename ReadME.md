@@ -21,7 +21,7 @@
 
 These steps will get executed: 
 
-- Open the Chrome Browser
+- Opens the proper browser what is selected
 - Maximize the browser window
 - Go to Parabank Website
 - Click on Register Button
